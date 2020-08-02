@@ -11,15 +11,12 @@
 }
 }
 @media only screen and  (min-width: 990px) {
- .wrapper{
-   width:90%;
- }
- #social {
-  position:absolute;
-  top: 80px;
-  right: 4px;
-  width: auto;
-
+  body{
+    font-size:85%;
+  }
+#logo h1{
+  height:35px;
+  width:35px
 }
 }
 
