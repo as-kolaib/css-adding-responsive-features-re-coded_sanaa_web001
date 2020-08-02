@@ -36,13 +36,12 @@
   column-count: 2;
 }
 }
+@media only screen and  (min-width: 990px) {
 
 
-- Set the `body` text to a font size of 85%
-    - Change the `#logo h1` to 35px for height and width
-    - Change the `#logo h2` font size to 2.2em
-    - Adjust the top positioning on the `#social` selector to 72px
-    - Change the `col-3 p` selector to have a column count of 2. _Hint: look at the `style.css` stylesheet and make sure you grab all three column-count attributes!_
+}
+
+
 - **Add a breakpoint for 750px**
   - Within this breakpoint:
     - Set the font size of the `#navbar nav a` selector to 0.9em;
