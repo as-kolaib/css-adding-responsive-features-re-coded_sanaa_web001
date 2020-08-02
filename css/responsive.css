@@ -3,9 +3,9 @@
    width:90%;
  }
  #social {
-  position: fixed;
+  position:abs;
   top: 80px;
-  right: 20px;
+  right: 4px;
   width: auto;
 
 }
